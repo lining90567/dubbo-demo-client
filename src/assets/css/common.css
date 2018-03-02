@@ -1,0 +1,31 @@
+.el-table {
+    width: 100%;
+    color: #111;
+    font-size: 14px;
+}
+.el-table .header-row {
+    background: #F2F6FC;
+    color: #111;
+    border-color: #ECEEF4;
+}
+
+.el-pagination {
+    float: right;
+    margin-top: 10px;
+}
+
+.el-dialog {
+  text-align: left;
+}
+.dialog-header {
+  width: 100%;
+  font-weight: bold;
+  padding-bottom: 8px;
+  border-bottom: solid 1px #eee;
+}
+.el-dialog__body {
+    padding-top: 7px;
+    padding-bottom: 7px;
+    margin-top: 7px;
+    margin-bottom: 7px;
+}
