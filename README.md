@@ -31,6 +31,7 @@ config\dev.env.js和prod.env.js，修改BASE_API为 [dubbo-demo-backend](https:/
  - 安装依赖包：npm（建议使用cnpm） install
  - npm run dev，通过http://localhost:3000 访问
  - npm run build，完成后打开dist\index.html访问
+ - 默认用户：system，口令：123456
 
 ### 注意事项
 
